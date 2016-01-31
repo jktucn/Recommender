@@ -1,0 +1,38 @@
+Measurement for Test file: u1.test and Prediction file: u1.test.Prediction
+Mean Square Error (MSE) is 0.915439
+Mean Flip Count (MFC) is 0.041100
+Measurement for Test file: u1.test and Prediction file: u1.test.Prediction2
+Mean Square Error (MSE) is 0.913056
+Mean Flip Count (MFC) is 0.040850
+Measurement for Test file: u2.test and Prediction file: u2.test.Prediction
+Mean Square Error (MSE) is 0.897588
+Mean Flip Count (MFC) is 0.040600
+Measurement for Test file: u2.test and Prediction file: u2.test.Prediction2
+Mean Square Error (MSE) is 0.895627
+Mean Flip Count (MFC) is 0.040550
+Measurement for Test file: u3.test and Prediction file: u3.test.Prediction
+Mean Square Error (MSE) is 0.894194
+Mean Flip Count (MFC) is 0.039800
+Measurement for Test file: u3.test and Prediction file: u3.test.Prediction2
+Mean Square Error (MSE) is 0.892140
+Mean Flip Count (MFC) is 0.039800
+Measurement for Test file: u4.test and Prediction file: u4.test.Prediction
+Mean Square Error (MSE) is 0.889730
+Mean Flip Count (MFC) is 0.038800
+Measurement for Test file: u4.test and Prediction file: u4.test.Prediction2
+Mean Square Error (MSE) is 0.887691
+Mean Flip Count (MFC) is 0.038700
+Measurement for Test file: u5.test and Prediction file: u5.test.Prediction
+Mean Square Error (MSE) is 0.886265
+Mean Flip Count (MFC) is 0.036600
+Measurement for Test file: u5.test and Prediction file: u5.test.Prediction2
+Mean Square Error (MSE) is 0.884403
+Mean Flip Count (MFC) is 0.036350
+
+Slope One Method:
+Average Mean Square Error (MSE) is 0.896643
+Average Mean Flip Count (MFC) is 0.039380
+
+Slope One Modified Method:
+Average Mean Square Error (MSE) is 0.894583
+Average Mean Flip Count (MFC) is 0.039250
